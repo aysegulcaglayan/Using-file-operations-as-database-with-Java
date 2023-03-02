@@ -1,0 +1,8 @@
+ 
+ Ad soyad:ayşegül çağlayan| Numara: 211307047 | Bölüm: bilişimsistemlerimühendisliği | Cinsiyet: kadın| Doğum Yeri: istanbul| Yaş:  20| Telefon Numarası: 5459876545
+ Ad soyad:oğuz yılmaz| Numara: 211654987 | Bölüm: biyomedikalmühendisliği | Cinsiyet: erkek| Doğum Yeri: sinop| Yaş:  24| Telefon Numarası: 5659874546
+ Ad soyad:emre açıkgöz| Numara: 211546879 | Bölüm: bilişimsistemlerimühendisliği | Cinsiyet: erkek| Doğum Yeri: istanbul| Yaş:  23| Telefon Numarası: 5659321213
+ Ad soyad:aslı şahin| Numara: 259698896 | Bölüm: kimya | Cinsiyet: kadın| Doğum Yeri: bursa| Yaş:  30| Telefon Numarası: 5362113212
+ Ad soyad:furkan demir| Numara: 322654789 | Bölüm: bilgisayarmühendisliği | Cinsiyet: erkek| Doğum Yeri: trabzon| Yaş:  20| Telefon Numarası: 5421231514
+ Ad soyad:melis öz| Numara: 211356546 | Bölüm: otomotivmühendisliği | Cinsiyet: kadın| Doğum Yeri: sinop| Yaş:  21| Telefon Numarası: 5462584858
+ Ad soyad:uğur albayrak| Numara: 211546587 | Bölüm: psikolojikdanışmanlıkverehberlik | Cinsiyet: erkek| Doğum Yeri: rize| Yaş:  26| Telefon Numarası: 5458978738
